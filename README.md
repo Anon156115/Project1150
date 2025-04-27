@@ -36,7 +36,7 @@
 
 ถ้ากรอกถูก → เข้า Dashboard
 
-<img src="img/หน้า Login.png" width="100%"/>
+<img src="img/1" width="100%"/>
 
 📝 หน้า สมัครสมาชิก (Register)
 
@@ -46,7 +46,7 @@
 
 เมื่อสำเร็จ จะถูกพาไปยังหน้า Login เพื่อเข้าสู่ระบบ
 
-<img src="img/หน้า สมัครสมาชิก (Register)" width="100%"/>
+<img src="img/2" width="100%"/>
 
 🧾 หน้า รายชื่อพนักงานทั้งหมด (List Employee)
 คำอธิบายสำหรับหน้านี้:
@@ -65,7 +65,7 @@
 
 มีปุ่ม Dashboard เพื่อดูภาพรวมกราฟสรุปข้อมูล
 
-<img src="img/หน้า รายชื่อพนักงานทั้งหมด (List Employee)" width="100%"/>
+<img src="img/3" width="100%"/>
 
 
 🏠 หน้า Dashboard
@@ -74,7 +74,7 @@
 
 กดปุ่ม เพิ่มพนักงาน เพื่อไปหน้าเพิ่มข้อมูล
 
-<img src="img/หน้า Dashboard" width="100%"/>
+<img src="img/4" width="100%"/>
 
 ➕ หน้าเพิ่มพนักงาน (Add Employee)
 
@@ -82,6 +82,6 @@
 
 กด บันทึกข้อมูล เพื่อเพิ่มข้อมูลใหม่
 
-<img src="img/หน้าเพิ่มพนักงาน (Add Employee)" width="100%"/>
+<img src="img/5" width="100%"/>
 
 กดปุ่ม ออกจากระบบ บน Navbar เพื่อ Logout กลับมาที่หน้า Login
